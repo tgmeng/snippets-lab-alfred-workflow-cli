@@ -1,6 +1,6 @@
 {
   "name": "snippets-lab-alfred-workflow-cli",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "./index.js",
+    "./SnippetsLab"
+  ]
 }
